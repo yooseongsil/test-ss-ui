@@ -1,11 +1,12 @@
 <template>
   <div>
-    <button type="button" class="c-button" :class="color">{{ value }}</button>
+    <button type="button" class="s-button" :class="color">{{ value }}</button>
   </div>
 </template>
 
 <script>
 export default {
+  name: 'Button',
   props: {
     value: {
       type: String,
@@ -20,16 +21,16 @@ export default {
 </script>
 
 <style>
-.c-button.primary {
+.s-button.primary {
   background: green;
 }
-.c-button.error {
+.s-button.error {
   background: indianred;
 }
-.c-button.success {
+.s-button.success {
   background: dodgerblue;
 }
-.c-button.secondary {
+.s-button.secondary {
   background: lightslategray;
 }
 </style>

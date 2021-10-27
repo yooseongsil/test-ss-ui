@@ -1,9 +1,9 @@
 {
-    "c-button/value": {
+    "s-button/value": {
         "description": "String value.",
         "type": "string"
     },
-    "c-button/color": {
+    "s-button/color": {
         "description": "String value.",
         "type": "string"
     }

@@ -5,7 +5,7 @@ const componentLibrary = {
         for (const componentName in components) {
             const component = components[componentName];
 
-            Vue.component(`C${component.name}`, component);
+            Vue.component(`S${component.name}`, component);
         }
     }
 }

@@ -1,9 +1,9 @@
 {
-    "b-button": {
+    "s-button": {
         "attributes": [
             "value",
             "color"
         ],
-        "description": "comento-ui component: <c-button>"
+        "description": "test-ss-ui component: <s-button>"
     }
 }
