@@ -1,0 +1,9 @@
+{
+    "b-button": {
+        "attributes": [
+            "value",
+            "color"
+        ],
+        "description": "comento-ui component: <c-button>"
+    }
+}

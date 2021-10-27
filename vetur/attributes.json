@@ -1,0 +1,10 @@
+{
+    "c-button/value": {
+        "description": "String value.",
+        "type": "string"
+    },
+    "c-button/color": {
+        "description": "String value.",
+        "type": "string"
+    }
+}
