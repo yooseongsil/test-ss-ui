@@ -16,8 +16,8 @@
     "vue-template-compiler": "^2.6.11"
   },
   "vetur": {
-    "tags": "vetur/tags.json",
-    "attributes": "vetur/attributes.json"
+    "tags": "json/tags.json",
+    "attributes": "json/attributes.json"
   },
   "web-types": "json/web-types.json"
 }
