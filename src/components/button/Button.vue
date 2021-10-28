@@ -5,13 +5,23 @@
 </template>
 
 <script>
+/**
+ * 테스트용 버튼
+ */
 export default {
   name: 'Button',
   props: {
+    /**
+     * 버튼 내용
+     */
     value: {
       type: String,
       default: '확인',
     },
+    /**
+     * 색상
+     * @values primary, secondary, success, error
+     */
     color: {
       type: String,
       default: 'primary',
