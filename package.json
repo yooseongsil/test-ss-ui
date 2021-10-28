@@ -19,5 +19,5 @@
     "vue-styleguidist": "^4.41.2",
     "vue-template-compiler": "^2.6.11"
   },
-  "web-types": "./web-types.json"
+  "web-types": "web-types.json"
 }
