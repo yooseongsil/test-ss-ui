@@ -1,6 +1,10 @@
 <template>
   <div>
-    <button type="button" class="s-button" :class="color">{{ value }}</button>
+    <button type="button" class="s-button" :class="color">
+      <!-- @slot 아이콘 -->
+      <slot name="icon"></slot>
+      {{ value }}
+    </button>
   </div>
 </template>
 
