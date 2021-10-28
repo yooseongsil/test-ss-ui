@@ -44,7 +44,7 @@ export default {
   methods: {
     handleClickButton() {
       /**
-       * Success event.
+       * 성공했을 때
        */
       this.$emit('success');
     }
