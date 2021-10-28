@@ -1,7 +1,7 @@
 {
   "framework": "vue",
   "name": "test-ss-ui",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "contributions": {
     "html": {
       "description-markup": "markdown",
@@ -28,6 +28,12 @@
                 "type": "string"
               },
               "default": "'primary'"
+            }
+          ],
+          "events": [
+            {
+              "name": "success",
+              "description": "Success event."
             }
           ],
           "slots": [
