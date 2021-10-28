@@ -26,8 +26,7 @@ export default {
       default: '확인',
     },
     /**
-     * 색상
-     * @values primary, secondary, success, error
+     * 색상 (`primary`, `secondary`, `success`, `error`)
      */
     color: {
       type: String,

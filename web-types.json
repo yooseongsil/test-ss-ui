@@ -1,7 +1,7 @@
 {
   "framework": "vue",
   "name": "test-ss-ui",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "contributions": {
     "html": {
       "description-markup": "markdown",
@@ -22,7 +22,7 @@
             },
             {
               "name": "color",
-              "description": "색상",
+              "description": "색상 (`primary`, `secondary`, `success`, `error`)",
               "value": {
                 "kind": "expression",
                 "type": "string"
@@ -33,7 +33,7 @@
           "events": [
             {
               "name": "success",
-              "description": "Success event."
+              "description": "성공했을 때"
             }
           ],
           "slots": [
