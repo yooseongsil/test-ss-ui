@@ -9,6 +9,8 @@
 </template>
 
 <script>
+export const buttonColors = ['primary', 'secondary', 'success', 'error'];
+
 /**
  * 테스트용 버튼
  * @displayName s-button
@@ -30,6 +32,15 @@ export default {
     color: {
       type: String,
       default: 'primary',
+      validator(value) {
+        const isValid = buttonColors.includes(value);
+        if (!isValid) {
+          console.error(`${value} is not a valid value of Button color`);
+        }
+        return isValid;
+      },
+    }
+  },
     }
   }
 }
