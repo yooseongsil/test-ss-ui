@@ -2632,7 +2632,7 @@ chokidar@^2.1.8:
   optionalDependencies:
     fsevents "^1.2.7"
 
-chokidar@^3.4.1:
+chokidar@^3.4.1, chokidar@^3.4.2:
   version "3.5.2"
   resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-3.5.2.tgz#dba3976fcadb016f66fd365021d91600d01c1e75"
   integrity sha512-ekGhOnNVPgT77r4K/U3GDhu+FQ2S8TnK/s2KbIGXi0SZWuwkZ2QNyfWdZW+TVfn84DpEP7rLeCt2UI6bJ8GwbQ==
@@ -9666,7 +9666,7 @@ void-elements@^3.1.0:
   resolved "https://registry.yarnpkg.com/void-elements/-/void-elements-3.1.0.tgz#614f7fbf8d801f0bb5f0661f5b2f5785750e4f09"
   integrity sha1-YU9/v42AHwu18GYfWy9XhXUOTwk=
 
-vue-docgen-api@^4.41.2:
+vue-docgen-api@^4.30.0, vue-docgen-api@^4.41.2:
   version "4.41.2"
   resolved "https://registry.yarnpkg.com/vue-docgen-api/-/vue-docgen-api-4.41.2.tgz#1d0cca6e754f8cef30a0f2befcc87cba3d92880b"
   integrity sha512-q3X96PRPbMQVaZjNueaPfP9W5dh5lg5OSaSex9Kdz7vLCUR4R8g3JzIVY5J0NDnU4uP69cFKuX/P1/kkJvlvIQ==
@@ -9682,6 +9682,16 @@ vue-docgen-api@^4.41.2:
     recast "0.20.5"
     ts-map "^1.0.3"
     vue-inbrowser-compiler-utils "^4.41.2"
+
+vue-docgen-web-types@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/vue-docgen-web-types/-/vue-docgen-web-types-0.1.7.tgz#c89cc1a8454e3a3f3ec1d48454999066fbee0420"
+  integrity sha512-KFsX5hcdFGmuMvhLjJhb2+W0kBsXiDEF3pTfIIgbe/SR6XJf1Rtm8IgVXYlgTZ2bcaAd6+rdmxhr+HCKzBarMw==
+  dependencies:
+    chokidar "^3.4.2"
+    globby "^11.0.1"
+    lodash "^4.17.20"
+    vue-docgen-api "^4.30.0"
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
