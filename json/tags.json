@@ -1,9 +1,0 @@
-{
-    "s-button": {
-        "attributes": [
-            "value",
-            "color"
-        ],
-        "description": "test-ss-ui component: <s-button>"
-    }
-}
