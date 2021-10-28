@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button type="button" class="s-button" :class="color">
+    <button type="button" class="s-button" :class="color" @click="handleClickButton()">
       <!-- @slot 아이콘 -->
       <slot name="icon"></slot>
       {{ value }}
@@ -41,6 +41,12 @@ export default {
       },
     }
   },
+  methods: {
+    handleClickButton() {
+      /**
+       * Success event.
+       */
+      this.$emit('success');
     }
   }
 }
