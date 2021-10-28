@@ -11,6 +11,7 @@
 <script>
 /**
  * 테스트용 버튼
+ * @displayName s-button
  */
 export default {
   name: 'Button',
