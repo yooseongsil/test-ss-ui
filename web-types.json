@@ -1,0 +1,47 @@
+{
+  "framework": "vue",
+  "name": "test-ss-ui",
+  "version": "0.1.26",
+  "contributions": {
+    "html": {
+      "description-markup": "markdown",
+      "types-syntax": "typescript",
+      "tags": [
+        {
+          "name": "Button",
+          "description": "테스트용 버튼",
+          "attributes": [
+            {
+              "name": "value",
+              "description": "버튼 내용",
+              "value": {
+                "kind": "expression",
+                "type": "string"
+              },
+              "default": "'확인'"
+            },
+            {
+              "name": "color",
+              "description": "색상",
+              "value": {
+                "kind": "expression",
+                "type": "string"
+              },
+              "default": "'primary'"
+            }
+          ],
+          "slots": [
+            {
+              "name": "icon",
+              "description": "아이콘"
+            }
+          ],
+          "source": {
+            "module": "./src/components/button/Button.vue",
+            "symbol": "default"
+          }
+        }
+      ]
+    }
+  }
+}
