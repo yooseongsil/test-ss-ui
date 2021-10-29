@@ -1,7 +1,7 @@
 {
   "framework": "vue",
   "name": "test-ss-ui",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "contributions": {
     "html": {
       "description-markup": "markdown",
