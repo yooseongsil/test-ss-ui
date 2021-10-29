@@ -19,9 +19,6 @@ export const buttonColors = ['primary', 'secondary', 'success', 'error'];
 export default {
   name: 'Button',
   props: {
-    /**
-     * 버튼 내용
-     */
     value: {
       type: String,
       default: '확인',
