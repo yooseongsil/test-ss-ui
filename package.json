@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "web-types": "vue-docgen-web-types",
-    "release": "yarn web-types && shipjs prepare"
+    "release": "shipjs prepare"
   },
   "dependencies": {
     "core-js": "^3.6.5",
