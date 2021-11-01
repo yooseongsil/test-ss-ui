@@ -52,7 +52,7 @@
         },
         {
           "name": "s-legacy-button",
-          "description": "레거시 버튼",
+          "description": "레거시 버튼(테스트)",
           "source": {
             "module": "./src/components/button/LegacyButton.vue",
             "symbol": "default"
