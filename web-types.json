@@ -1,7 +1,7 @@
 {
   "framework": "vue",
   "name": "test-ss-ui",
-  "version": "0.1.36",
+  "version": "0.1.37",
   "contributions": {
     "html": {
       "description-markup": "markdown",
@@ -47,6 +47,14 @@
           ],
           "source": {
             "module": "./src/components/button/Button.vue",
+            "symbol": "default"
+          }
+        },
+        {
+          "name": "s-legacy-button",
+          "description": "레거시 버튼",
+          "source": {
+            "module": "./src/components/button/LegacyButton.vue",
             "symbol": "default"
           }
         }
