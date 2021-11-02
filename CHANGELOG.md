@@ -1,3 +1,12 @@
+## [0.1.49](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.48...v0.1.49) (2021-11-02)
+
+
+### Bug Fixes
+
+* 명령어 순서 바꾸기 ([e75b458](https://github.com/yooseongsil/test-ss-ui/commit/e75b45801b9d76c6ad20243bc121f692b851158a))
+
+
+
 ## [0.1.48](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.47...v0.1.48) (2021-11-02)
 
 
