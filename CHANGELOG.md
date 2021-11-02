@@ -1,3 +1,12 @@
+## [0.1.48](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.47...v0.1.48) (2021-11-02)
+
+
+### Bug Fixes
+
+* 명령어 ([fc58115](https://github.com/yooseongsil/test-ss-ui/commit/fc581156f7907ba2d7ae2a84110dc5739a01c62a))
+
+
+
 ## [0.1.47](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.46...v0.1.47) (2021-11-02)
 
 
