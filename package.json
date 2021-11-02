@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "web-types": "vue-docgen-web-types",
-    "copy": "cp -R web-types.json dist",
+    "copy": "cp -R web-types.json dist/web-types.json",
     "build": "yarn web-types && yarn copy && vue-cli-service build",
     "release": "shipjs prepare"
   },
