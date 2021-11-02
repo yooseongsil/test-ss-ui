@@ -1,3 +1,12 @@
+## [0.1.47](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.46...v0.1.47) (2021-11-02)
+
+
+### Bug Fixes
+
+* web-types file ([d1851f5](https://github.com/yooseongsil/test-ss-ui/commit/d1851f58256142580a913d0dd8cb61b4af5c0a89))
+
+
+
 ## [0.1.46](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.45...v0.1.46) (2021-11-02)
 
 
