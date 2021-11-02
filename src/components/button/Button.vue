@@ -13,7 +13,7 @@
 export const buttonColors = ['primary', 'secondary', 'success', 'error'];
 
 /**
- * 테스트용 버튼
+ * 테스트용 버튼!!
  * @displayName s-button
  */
 export default {
