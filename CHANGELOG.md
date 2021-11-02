@@ -1,3 +1,12 @@
+## [0.1.51](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.50...v0.1.51) (2021-11-02)
+
+
+### Bug Fixes
+
+* 명령어 수정 ([91f1f42](https://github.com/yooseongsil/test-ss-ui/commit/91f1f42a14b108244bd4ed2fc21fccc4feb76a38))
+
+
+
 ## [0.1.50](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.49...v0.1.50) (2021-11-02)
 
 
