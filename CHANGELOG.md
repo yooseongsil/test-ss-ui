@@ -1,3 +1,13 @@
+## [0.1.54](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.53...v0.1.54) (2021-11-03)
+
+
+### Bug Fixes
+
+* build node version 변경 ([dba8c68](https://github.com/yooseongsil/test-ss-ui/commit/dba8c68dac52fe99642b24458a50a27952030de5))
+* node version 14로 변경 ([a8f6a0b](https://github.com/yooseongsil/test-ss-ui/commit/a8f6a0b63f980b0e6e3b4deb5debf9c57ed28eb8))
+
+
+
 ## [0.1.53](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.52...v0.1.53) (2021-11-03)
 
 
