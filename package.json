@@ -21,8 +21,7 @@
     "vue-template-compiler": "^2.6.11"
   },
   "files": [
-    "dist/*",
-    "web-types.json"
+    "dist/*"
   ],
   "web-types": "dist/web-types.json"
 }
