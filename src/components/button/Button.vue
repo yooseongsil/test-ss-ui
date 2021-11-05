@@ -4,6 +4,7 @@
       <!-- @slot 아이콘 -->
       <slot name="icon"></slot>
       {{ value }}
+      <!---->
       <slot name="etc"></slot>
     </button>
   </div>
