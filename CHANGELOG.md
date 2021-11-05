@@ -1,3 +1,12 @@
+## [0.1.55](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.54...v0.1.55) (2021-11-05)
+
+
+### Bug Fixes
+
+* slot comment ([16e64ee](https://github.com/yooseongsil/test-ss-ui/commit/16e64ee45f302263b3684733212f0a965044bf9d))
+
+
+
 ## [0.1.54](https://github.com/yooseongsil/test-ss-ui/compare/v0.1.53...v0.1.54) (2021-11-03)
 
 
