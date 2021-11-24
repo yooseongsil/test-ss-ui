@@ -1,4 +1,4 @@
-import Button from './Button';
+import SButton from './SButton';
 import LegacyButton from './LegacyButton';
 
-export { Button, LegacyButton };
+export { SButton, LegacyButton };
