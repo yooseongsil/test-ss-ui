@@ -13,12 +13,8 @@
 <script>
 export const buttonColors = ['primary', 'secondary', 'success', 'error'];
 
-/**
- * 테스트용 버튼!!
- * @displayName s-button
- */
 export default {
-  name: 'Button',
+  name: 'SButton',
   props: {
     value: {
       type: String,
